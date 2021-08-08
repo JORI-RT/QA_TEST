@@ -8,5 +8,8 @@ CDおよびスコープで調整する
 ## 本まとめ 
 [perfect softwareまとめ](perfect_software.md)
 ## JSTQBまとめ
-[CH1](jstqb_ch1.md)
-[不明点](jstqb_不明点.md)
+* [CH1 テスト基礎](jstqb_ch1.md)
+* [CH2 ソフトウェア開発ライフサイクル](jstqb_ch2.md)
+* [CH3 静的テスト](jstqb_ch3.md)
+* [CH4 テスト技法](jstqb_ch4.md)
+* [不明点](jstqb_不明点.md)
