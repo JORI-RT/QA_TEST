@@ -5,7 +5,7 @@
 CDおよびスコープで調整する
 品質保証はテストとイコールではない、テストはあくまで製品のリスクに関する情報をあたえるだけ
 
-## DOC
+## 本まとめ 
 [perfect softwareまとめ](perfect_software.md)
 ## JSTQBまとめ
 [CH1](jstqb_ch1.md)
